@@ -1,3 +1,5 @@
+#c2861272@gmail.com
+#Cambridge001
 """
 Django settings for Cambridge01 project.
 
